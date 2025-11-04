@@ -1,2 +1,2 @@
 # random-password-generator
-A bash script that makes random passwords
+A bash and c script that makes random passwords
